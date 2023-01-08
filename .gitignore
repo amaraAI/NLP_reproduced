@@ -1,0 +1,16 @@
+/meta_distill/__pycache__/
+/meta_distill/*.sh
+/meta_distill/*.out
+/meta_distill/glue_data/
+/meta_distill/runs/
+/meta_distill/log0
+/patient_kd/__pycache__/
+/patient_kd/runs/
+/patient_kd/*.out
+/patient_kd/*.input
+/patient_kd/*.sh
+/Pretraining/__pycache__/
+/Pretraining/runs/
+/Pretraining/*.sh
+/Pretraining/*.out
+
